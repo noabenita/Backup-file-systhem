@@ -14,5 +14,6 @@ need to run it with arguments:
 need to run it with argument:
 
 1. server's port.
+
 The server accept client by client and listen to changes, gets all the data about the changes from the client.
   The changes are being notified to the server that updates the directory where the server code appears.
